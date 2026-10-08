@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VitalNotifier</string>
+    <string name="service_name">VitalNotifier - Escucha de Yape</string>
+    <string name="service_desc">Servicio en segundo plano para reenviar confirmaciones de pago de Yape a VitalStock.</string>
+</resources>
